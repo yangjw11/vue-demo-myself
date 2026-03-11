@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <!-- 在前端可以通过meta来设置referrer policy(来源策略)，referrer设置成no-referrer，发送请求不会带上referrer信息，对方服务器也就无法拦截了 -->
+    <meta name="referrer" content="no-referrer" />
+    <!-- 修改页签icon -->
+		<link rel="icon" href="<%= BASE_URL %>favicon.ico" />
+		<title><%= htmlWebpackPlugin.options.title %></title>
+	</head>
+	<body>
+		<noscript>
+			<strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+		</noscript>
+		<script type="text/javascript">
+      // 去高德开发者平台可以找到key和code
+      // https://console.amap.com/dev/key/app
+			window._AMapSecurityConfig = {
+				securityJsCode: "6c50f669813a6024d3df0c7c321994cf"
+			};
+		</script>
+		<script type="text/javascript" src="http://api.map.baidu.com/api?v=3.0&ak=SbdIki5CEjQopBrGl82xRFvIYvOA5KLR"></script>
+		<script type="text/javascript" src="https://webapi.amap.com/maps?key=7fea91a38c5e36bbf28a347ac8db143f&v=1.4.4&plugin=AMap.Geolocation,AMap.Autocomplete,AMap.PlaceSearch,AMap.Scale,AMap.OverView,AMap.ToolBar,AMap.MapType,AMap.PolyEditor,AMap.CircleEditor,AMap.Geocoder"></script> 
+		<div id="app"></div>
+		<!-- built files will be auto injected -->
+	</body>
+</html>

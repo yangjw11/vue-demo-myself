@@ -1,0 +1,676 @@
+ [
+				{
+					value: "1",
+					label: "二次元动漫综合系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合1",
+							label: "动漫综合1",
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合2",
+							label: "动漫综合2",
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合3",
+							label: "动漫综合3",
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合4",
+							label: "动漫综合4",
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合5",
+							label: "动漫综合5",
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合6",
+							label: "动漫综合6",
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合7",
+							label: "动漫综合7",
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合8",
+							label: "动漫综合8",
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合9",
+							label: "动漫综合9",
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合10",
+							label: "动漫综合10",
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合11",
+							label: "动漫综合11",
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合12",
+							label: "动漫综合12",
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合13",
+							label: "动漫综合13",
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合14",
+							label: "动漫综合14",
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合15",
+							label: "动漫综合15",
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合16",
+							label: "动漫综合16",
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合17",
+							label: "动漫综合17",
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合18",
+							label: "动漫综合18",
+						},
+					]
+				},
+				{
+					value: "2",
+					label: "赛马娘系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?自适应图片系列=赛马娘",
+							label: "赛马娘自适应",
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=赛马娘横屏系列1",
+							label: "赛马娘横屏系列1",
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=赛马娘竖屏系列1",
+							label: "赛马娘竖屏系列1",
+						},
+					]
+				},
+				{
+					value: "3",
+					label: "东京食尸鬼系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?自适应图片系列=东京食尸鬼",
+							label: "东京食尸鬼自适应"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=东京食尸鬼横屏系列1",
+							label: "东京食尸鬼横屏系列1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=东京食尸鬼竖屏系列1",
+							label: "东京食尸鬼竖屏系列1"
+						},
+					]
+				},
+				{
+					value: "4",
+					label: "Fate系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?自适应图片系列=Fate",
+							label: "Fate自适应"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=Fate横屏系列1",
+							label: "Fate横屏系列1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=Fate竖屏系列1",
+							label: "Fate竖屏系列1"
+						},
+					]
+				},
+				{
+					value: "5",
+					label: "为美好世界献上祝福系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?自适应图片系列=为美好世界献上祝福",
+							label: "为美好世界献上祝福自适应"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=为美好世界献上祝福横屏系列1",
+							label: "为美好世界献上祝福横屏系列1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=为美好世界献上祝福竖屏系列1",
+							label: "为美好世界献上祝福竖屏系列1"
+						},
+					]
+				},
+				{
+					value: "6",
+					label: "某科学的超电磁炮系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?自适应图片系列=某科学的超电磁炮",
+							label: "某科学的超电磁炮自适应"
+						},
+						
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=某科学的超电磁炮横屏系列1",
+							label: "某科学的超电磁炮横屏系列1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=某科学的超电磁炮竖屏系列1",
+							label: "某科学的超电磁炮竖屏系列1"
+						},
+					]
+				},
+				{
+					value: "7",
+					label: "原神系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?自适应图片系列=原神",
+							label: "原神自适应"
+						},
+					
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=原神横屏系列1",
+							label: "原神横屏系列1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=原神竖屏系列1",
+							label: "原神竖屏系列1"
+						},
+					]
+				},
+				{
+					value: "8",
+					label: "我的世界系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=我的世界系列1",
+							label: "我的世界系列1"
+						}
+					]
+				},
+                {
+					value: "9",
+					label: "神奇宝贝系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?自适应图片系列=神奇宝贝",
+							label: "神奇宝贝自适应"
+						},
+						
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=神奇宝贝横屏系列1",
+							label: "神奇宝贝横屏系列1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=神奇宝贝竖屏系列1",
+							label: "神奇宝贝竖屏系列1"
+						},
+						
+					]
+				},
+                {
+					value: "10",
+					label: "龙珠系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?自适应图片系列=龙珠",
+							label: "龙珠自适应"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=龙珠横屏系列1",
+							label: "龙珠横屏系列1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=龙珠竖屏系列1",
+							label: "龙珠竖屏系列1"
+						},
+						
+					]
+				},
+                {
+					value: "11",
+					label: "罪恶王冠系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?自适应图片系列=罪恶王冠",
+							label: "罪恶王冠自适应"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=罪恶王冠横屏系列1",
+							label: "罪恶王冠横屏系列1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=罪恶王冠竖屏系列1",
+							label: "罪恶王冠竖屏系列1"
+						},
+						
+					]
+				},
+                {
+					value: "12",
+					label: "鬼灭之刃系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?自适应图片系列=鬼灭之刃",
+							label: "鬼灭之刃自适应"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=鬼灭之刃横屏系列1",
+							label: "鬼灭之刃横屏系列1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=鬼灭之刃竖屏系列1",
+							label: "鬼灭之刃竖屏系列1"
+						},
+						
+					]
+				},
+                {
+					value: "13",
+					label: "火影忍者系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?自适应图片系列=火影忍者",
+							label: "火影忍者自适应"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=火影忍者横屏系列1",
+							label: "火影忍者横屏系列1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=火影忍者竖屏系列1",
+							label: "火影忍者竖屏系列1"
+						},
+						
+					]
+				},
+                {
+					value: "14",
+					label: "海贼王系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?自适应图片系列=海贼王",
+							label: "海贼王自适应"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=海贼王横屏系列1",
+							label: "海贼王横屏系列1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=海贼王竖屏系列1",
+							label: "海贼王竖屏系列1"
+						},
+						
+					]
+				},
+                {
+					value: "15",
+					label: "进击的巨人系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?自适应图片系列=进击的巨人",
+							label: "进击的巨人自适应"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=进击的巨人横屏系列1",
+							label: "进击的巨人横屏系列1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=进击的巨人竖屏系列1",
+							label: "进击的巨人竖屏系列1"
+						},
+						
+					]
+				},
+                {
+					value: "16",
+					label: "从零开始的异世界生活系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?自适应图片系列=从零开始的异世界生活",
+							label: "从零开始的异世界生活自适应"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=从零开始的异世界生活横屏系列1",
+							label: "从零开始的异世界生活横屏系列1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=从零开始的异世界生活竖屏系列1",
+							label: "从零开始的异世界生活竖屏系列1"
+						},
+						
+					]
+				},
+                {
+					value: "17",
+					label: "刀剑神域系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?自适应图片系列=刀剑神域",
+							label: "刀剑神域自适应"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=刀剑神域横屏系列1",
+							label: "刀剑神域横屏系列1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=刀剑神域竖屏系列1",
+							label: "刀剑神域竖屏系列1"
+						},
+						
+					]
+				},
+                {
+					value: "18",
+					label: "钢之炼金术师系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?自适应图片系列=钢之炼金术师",
+							label: "钢之炼金术师自适应"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=钢之炼金术师横屏系列1",
+							label: "钢之炼金术师横屏系列1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=钢之炼金术师竖屏系列1",
+							label: "钢之炼金术师竖屏系列1"
+						},
+						
+					]
+				},
+                {
+					value: "19",
+					label: "妖精的尾巴系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?自适应图片系列=妖精的尾巴",
+							label: "妖精的尾巴自适应"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=妖精的尾巴横屏系列1",
+							label: "妖精的尾巴横屏系列1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=妖精的尾巴竖屏系列1",
+							label: "妖精的尾巴竖屏系列1"
+						},
+						
+					]
+				},
+                {
+					value: "20",
+					label: "缘之空系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?自适应图片系列=缘之空",
+							label: "缘之空自适应"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=缘之空横屏系列1",
+							label: "缘之空横屏系列1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=缘之空竖屏系列1",
+							label: "缘之空竖屏系列1"
+						},
+						
+					]
+				},
+                {
+					value: "21",
+					label: "东方project系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=东方project1",
+							label: "东方project1"
+						}
+					]
+				},
+                {
+					value: "22",
+					label: "猫娘系列系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=猫娘1",
+							label: "猫娘1"
+						}
+					]
+				},
+                {
+					value: "23",
+					label: "风景系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=风景系列1",
+							label: "风景系列1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=风景系列2",
+							label: "风景系列2"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=风景系列3",
+							label: "风景系列3"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=风景系列4",
+							label: "风景系列4"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=风景系列5",
+							label: "风景系列5"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=风景系列6",
+							label: "风景系列6"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=风景系列7",
+							label: "风景系列7"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=风景系列8",
+							label: "风景系列8"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=风景系列9",
+							label: "风景系列9"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=风景系列10",
+							label: "风景系列10"
+						},
+					]
+				},
+                {
+					value: "24",
+					label: "物语系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=物语系列1",
+							label: "化物语"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=物语系列2",
+							label: "忍野忍出自物语系列 女主角插画"
+						}
+					]
+				},
+                {
+					value: "25",
+					label: "少女前线系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=少女前线1",
+							label: "少女前线"
+						}
+					]
+				},
+                {
+					value: "26",
+					label: "明日方舟系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=明日方舟1",
+							label: "明日方舟1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=明日方舟2",
+							label: "明日方舟2"
+						}
+					]
+				},
+                {
+					value: "27",
+					label: "重装战姬系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=重装战姬1",
+							label: "重装战姬"
+						}
+					]
+				},
+                {
+					value: "28",
+					label: "P站系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=P站系列1",
+							label: "P站画师GTZ taejune的插画"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=P站系列2",
+							label: "湿身女孩们的美图分享"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=P站系列3",
+							label: "P站画师 TID"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=P站系列4",
+							label: "Pixiv日榜美图 #P598"
+						},
+					]
+				},
+                {
+					value: "29",
+					label: "CG系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=CG",
+							label: "系列1ももこ日本画师作品"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=CG系列2",
+							label: "魔法少女伊莉雅"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=CG系列3",
+							label: "冷淡风性感美人"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=CG系列4",
+							label: "立川虫麻吕"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=CG系列5",
+							label: "Fate/Grand Order 盾娘玛修·基列莱特"
+						},
+					]
+				},
+                {
+					value: "30",
+					label: "守望先锋系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=守望先锋",
+							label: "守望先锋"
+						}
+					]
+				},
+                {
+					value: "31",
+					label: "王者荣耀系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=王者荣耀",
+							label: "王者荣耀"
+						}
+					]
+				},
+                {
+					value: "32",
+					label: "少女写真系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=少女写真1",
+							label: "少女写真1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=少女写真2",
+							label: "少女写真2"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=少女写真3",
+							label: "少女写真3"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=少女写真4",
+							label: "少女写真4"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=少女写真5",
+							label: "少女写真5"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=少女写真6",
+							label: "少女写真6"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=死库水萝莉",
+							label: "死库水萝莉"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=萝莉",
+							label: "萝莉"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=极品美女图片",
+							label: "极品美女图片"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=日本COS中国COS",
+							label: "日本COS中国COS"
+						},
+					]
+				},
+                {
+					value: "20",
+					label: "橘里橘气系列",
+					children: [
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?自适应图片系列=橘里橘气",
+							label: "橘里橘气自适应"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=橘里橘气横屏系列1",
+							label: "橘里橘气横屏系列1"
+						},
+						{
+							value: "https://api.r10086.com/樱道随机图片api接口.php?图片系列=橘里橘气竖屏系列1",
+							label: "橘里橘气竖屏系列1"
+						},
+						
+					]
+				},
+			]

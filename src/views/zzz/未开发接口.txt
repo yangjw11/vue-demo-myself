@@ -1,0 +1,4 @@
+https://api.kxzjoker.cn/API/Beautyvideo.php?type=json
+
+
+type=down 直接播放   type=json 返回json数据 type=json&id=视频id编号  type=down&id=视频id编号
